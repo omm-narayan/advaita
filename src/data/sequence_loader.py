@@ -21,4 +21,4 @@ class SequenceDataset(Dataset):
     def _load_genome(self, fasta_file):
         """Load reference genome"""
         # Implementation here
-        pass
+        pass 
