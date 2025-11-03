@@ -22,4 +22,3 @@ class SequenceDataset(Dataset):
         """Load reference genome"""
         # Implementation here
         pass 
-
